@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakhanprajapat1" alt="lakhanprajapat1" /></a> </p>
 -->
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lakhan-prajapat-8245a02b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/lakhan-prajapat-8245a02b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lakhan-prajapat-8245a02b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/lakhan-prajapat-8245a02b1)
 
 - 📫 How to reach me **lakhan10209@gmail.com**
 
