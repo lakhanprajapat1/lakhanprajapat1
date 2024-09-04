@@ -1,7 +1,7 @@
 👋 Hello, I'm Lakhan prajapati
 
 # 💫 About Me:
-*I'm a passionate 👨‍💻 'MERN Stack Developer'. I thrive in fast-paced environments and 💗 enjoy tackling challenging problems with innovative solutions. My expertise lies in the MERN stack, which includes MongoDB, Express.js, React, and Node.js. <br><hr>
+*I'm a 👨‍💻 'MERN Stack Developer'. I thrive in fast-paced environments and 💗 enjoy tackling challenging problems with innovative solutions. My expertise lies in the MERN stack, which includes MongoDB, Express.js, React, and Node.js. <br><hr>
 ✨ I'm MERN-STACK Enthusiastic<br>💌 How to reach me: lakhan10209@gmail.com
 
 
