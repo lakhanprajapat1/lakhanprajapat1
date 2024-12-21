@@ -1,7 +1,7 @@
 ## Hi, I'm lakhan prajapati👋
 
 # 💫 About Me:
-° I am a passionate 🧑‍💻web developer and 🚀 MERN stack enthusiast, dedicated to creating responsive, dynamic web applications while continuously learning and improving my skills ✨ in modern web technologies.<br>° 💌My Portfolio --> <a href="https://iamlakhan.netlify.app" target="_">Click Me</a>
+° I am a passionate 🧑‍💻web developer and 🚀 MERN stack enthusiast, dedicated to creating responsive, dynamic web applications while continuously learning and improving my skills ✨ in modern web technologies.<br>° 💌My Portfolio --> <a href="https://iamlakhan.vercel.app" target="_">Click Me</a>
 
 
 ## 🌐 Socials:
